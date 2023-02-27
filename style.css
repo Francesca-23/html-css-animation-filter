@@ -120,7 +120,7 @@
 
 @keyframes rotate-2{
     0%{rotate: 0deg;}
-    90%{rotate: 300deg;}
+    90%{rotate: 270deg;}
     100%{rotate: 0deg;}
 }
 
